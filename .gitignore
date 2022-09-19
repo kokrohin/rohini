@@ -1,0 +1,5 @@
+allure-results/
+screenshot/
+test-output/
+build/
+reports/
