@@ -16,7 +16,7 @@ public class Practice1 {
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.co.in/");
-		driver.navigate.to("https://www.amazon.in/");
+		driver.navigate().to("https://www.amazon.in/");
 		
 	} 
 }
