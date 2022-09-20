@@ -24,6 +24,7 @@ public class Practice1 {
 
 		driver.navigate().to("https://www.myntra.com/");
 		driver.navigate().to("https://www.ajio.com/");
+		driver.navigate().to("https://www.bewakoof.com/");
 		
 		
 	} 
