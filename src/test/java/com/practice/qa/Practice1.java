@@ -11,12 +11,14 @@ public class Practice1 {
 	
 
 	@Test
+	
 	public void testCase1() {
 		WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.co.in/");
 		driver.navigate().to("https://www.amazon.in/");
+		driver.navigate().to("https://www.myntra.com/");
 		
 	} 
 }
